@@ -1,3 +1,15 @@
+<p align="center">
+
+# Marcelly Maia
+
+### Data Analyst • Business Intelligence • Microsoft Power Platform
+
+Transforming business problems into data-driven decisions.
+
+</p>
+
+
+
 # Hi, I'm Marcelly Maia 👋
 
 ### Data Analyst | Business Intelligence | Power BI | SQL | Python
