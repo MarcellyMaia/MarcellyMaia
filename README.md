@@ -1,6 +1,28 @@
 <p align="center">
   <img src="images/banner.png" alt="Banner" width="100%">
 </p>
+<p align="center">
+
+# Marcelly Maia
+
+### Data Analyst • Business Intelligence • Microsoft Power Platform
+
+Transforming business problems into data-driven decisions.
+
+</p>
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
+
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge)
+
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge)
+
 
 
 <p align="center">
@@ -12,6 +34,8 @@
 Transforming business problems into data-driven decisions.
 
 </p>
+
+
 
 
 
