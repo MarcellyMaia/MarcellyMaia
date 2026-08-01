@@ -80,6 +80,6 @@ I turn complex data into clear, actionable decisions. My work brings together **
 
 I’m interested in opportunities and collaborations involving **Data Analytics, Business Intelligence, Power BI, SQL, Python, and Power Platform**.
 
-📫 Reach me at **[YOUR.EMAIL@example.com](mailto:marcellygsm@outlook.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/marcelly-maia/)**.
+📫 Reach me at **[marcellygsm@outlook.com](mailto:marcellygsm@outlook.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/marcelly-maia/)**.
 
 <p align="center"><i>Data becomes valuable when it helps someone make a better decision.</i></p>
