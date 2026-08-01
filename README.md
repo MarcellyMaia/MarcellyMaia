@@ -12,10 +12,10 @@ I turn complex data into clear, actionable decisions. My work brings together **
 
 ## About me
 
-- 📊 I build dashboards and analytical solutions that make performance visible and decisions faster.
-- ⚙️ I automate repetitive workflows with **Python** and the **Microsoft Power Platform**.
-- 🧩 I translate business questions into scalable data models, KPIs, and practical reports.
-- 🌎 I am open to collaborating on data, BI, automation, and analytics projects.
+- I build dashboards and analytical solutions that make performance visible and decisions faster.
+- I automate repetitive workflows with **Python** and the **Microsoft Power Platform**.
+- I translate business questions into scalable data models, KPIs, and practical reports.
+- I am open to collaborating on data, BI, automation, and analytics projects.
 
 > **My approach:** clean data, useful metrics, simple experiences, and measurable business value.
 
